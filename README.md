@@ -5,7 +5,7 @@ These examples are of beginners' level.<br>
 <br>
 Hey guys, I wrote these programs when I was just starting up with programming, now I realize that many of 'em feel very un-professional and useless so I decided to go one by one through all and make 'em more useful and professional!
 <br>
-
+thai : example of python
 Note: In 2.x versions input isn't useful. Similarly, in 3.x versions raw_input isn't useful. Also, xrange() and other methods are discontinued or changed in 3.x versions of Python. Change the keywords accordingly! 
 
 <pre>
